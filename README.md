@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # bank_of_baroda
 
 BOB Hackathon 2022
@@ -76,9 +75,6 @@ samples, guidance on mobile development, and a full API reference.
    * Sudharsan
    * Saravanan 
    * Shafiq Ahamed
-      
  
-
-
-
->>>>>>> d5523e733fde3aa4974a97d4ce81cfa0fea5a973
+ 
+ 
