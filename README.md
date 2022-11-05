@@ -14,7 +14,21 @@
   
   
      
+ # ------------------------Download File Link-----------------------------
+ 
+ (https://drive.google.com/file/d/13WBmAraeyl75yOEWrzCCg-FSrpjhdmNz/view?usp=share_link)
+ 
+ ## Step 1: Download the apk file and install it !!
+ 
+ ## Step 2: Open the app and press "Sign up" to create a new user .
+ 
+ ## Step 3: After sign up you can login many times .
+ 
+ ## Step 4: On home screen press threedots to creat your database .
   
+ ###3 If any queries contact me on : thensthens2@gmail.com
+  
+ # -----------------------------xxxx----------------------------------------
  ## User Segment & Pain Points
      
   * The most of thethe Online Authentication to reduce their time .  teen ages and elders adapt this producut .The majorty of the peoples are using
