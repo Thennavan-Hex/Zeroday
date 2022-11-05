@@ -14,7 +14,7 @@
   
   
      
- # ------------------------Download File Link-----------------------------
+ # --------------Download File Link-----------------
  
  (https://drive.google.com/file/d/13WBmAraeyl75yOEWrzCCg-FSrpjhdmNz/view?usp=share_link)
  
@@ -28,7 +28,7 @@
   
  ### If any queries contact me on : thensthens2@gmail.com
   
- # -----------------------------xxxx----------------------------------------
+ # -------------------xxxx---------------------------
  ## User Segment & Pain Points
      
   * The most of thethe Online Authentication to reduce their time .  teen ages and elders adapt this producut .The majorty of the peoples are using
