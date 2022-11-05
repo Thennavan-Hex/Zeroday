@@ -24,7 +24,7 @@
  
  ## Step 3: After sign up you can login many times .
  
- ## Step 4: On home screen press threedots to creat your database .
+ ## Step 4: On home screen press threedots to clear your database .
   
  ### If any queries contact me on : thensthens2@gmail.com
   
