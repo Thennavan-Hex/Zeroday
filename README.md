@@ -26,7 +26,7 @@
  
  ## Step 4: On home screen press threedots to creat your database .
   
- ###3 If any queries contact me on : thensthens2@gmail.com
+ ### If any queries contact me on : thensthens2@gmail.com
   
  # -----------------------------xxxx----------------------------------------
  ## User Segment & Pain Points
