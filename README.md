@@ -12,7 +12,7 @@
   
  - It also help the users easy to access a secure field of authentication. This Authentication is mostly used in banks to improve their security feature , it help the banks to verify the users in online .
   
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://youtu.be/s1eZy4iMzx4"Everything Is AWESOME")
+[![](https://upload.wikimedia.org/wikipedia/en/f/f2/BankOfBarodaLogo.svg)](https://youtu.be/s1eZy4iMzx4"BOB Hackathon Demo video")
      
  # --------------Download File Link-----------------
  (https://drive.google.com/file/d/1GXE0isdGFRGVbUZPS8Rk-4m0iC7IAh3A/view?usp=share_link)
@@ -70,6 +70,5 @@
    * Sudharsan
    * Saravanan 
    * Shafiq Ahamed
- 
  
  
