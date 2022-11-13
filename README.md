@@ -15,7 +15,6 @@
   
      
  # --------------Download File Link-----------------
- 
  (https://drive.google.com/file/d/1GXE0isdGFRGVbUZPS8Rk-4m0iC7IAh3A/view?usp=share_link)
  
  ## Step 1: Download the apk file and install it !!
